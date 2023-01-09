@@ -1,1 +1,1 @@
-# Projet_6_SaucePiquante_OpenClassRooms
+Projet6-Piquante
